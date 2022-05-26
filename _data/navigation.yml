@@ -1,11 +1,4 @@
-# main links
-main:
-
-- title: "Categories"
-  url: "/categories/"
-
-
 - title: Blog
   url: /
-# - title: About
-#   url: /about/
+- title: About
+  url: /about/
