@@ -2,10 +2,10 @@
 title: JiHyun
 description: A simple blogs
 url: https://go-null.github.io
-avatar: /cat.jpg
+avatar: /blackcat.png
 paginate: 5
 permalink: pretty
-cover_image: /blackcat.png
+cover_image: /bg.jpg
 
 # Gems
 plugins:
