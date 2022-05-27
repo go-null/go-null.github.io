@@ -5,7 +5,7 @@ url: https://go-null.github.io
 avatar: /cat.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: /blackcat.png
 
 # Gems
 plugins:
